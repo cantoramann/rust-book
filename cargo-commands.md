@@ -1,5 +1,6 @@
-cargo new <project name>
-cargo build
-cargo check.
-cargo build --release
-cargo doc --open
+- cargo new <project name>
+- cargo build
+- cargo check.
+- cargo build --release
+- cargo doc --open
+- cargo update (updates dependencies by checking the semantic version)
